@@ -5,10 +5,13 @@ This was created by a programming novice.
 The creator is not responsible for any damage incurred by the user in using this program. Please use this program at your own risk.
 ## 使用方法
 本プログラムを利用するには下記の情報が必要です。
-*password
-*username
-### username , password
-これは、WebUIにログインする際に使用する情報を流用してください。
+*username_plain
+*password_plain
+*ip
+### username_plain , password_plain
+これは、WebUIにログインする際に使用する情報を入力してください。
+### ip
+ルータのIPアドレスを入力してください。
 ### 出力結果
 <受信>,<送信>
 の形式で出力されます。単位はbyteです。

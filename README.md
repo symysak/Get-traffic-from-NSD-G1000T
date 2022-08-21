@@ -15,3 +15,5 @@ The creator is not responsible for any damage incurred by the user in using this
 ### 出力結果
 <受信>,<送信>
 の形式で出力されます。単位はbyteです。
+## 利用例
+ZabbixのUserParametersとかを利用して、グラフ作ったら面白いかも

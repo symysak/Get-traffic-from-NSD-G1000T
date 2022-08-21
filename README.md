@@ -5,9 +5,9 @@ This was created by a programming novice.
 The creator is not responsible for any damage incurred by the user in using this program. Please use this program at your own risk.
 ## 使用方法
 本プログラムを利用するには下記の情報が必要です。
-*username_plain
-*password_plain
-*ip
+* username_plain
+* password_plain
+* ip
 ### username_plain , password_plain
 これは、WebUIにログインする際に使用する情報を入力してください。
 ### ip

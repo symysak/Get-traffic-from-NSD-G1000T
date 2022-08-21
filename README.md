@@ -15,5 +15,7 @@ The creator is not responsible for any damage incurred by the user in using this
 ### 出力結果
 <受信>,<送信>
 の形式で出力されます。単位はbyteです。
+### 注意点
+このプログラムを実行すると、他のログイン中のユーザが追い出されます。ですので、WebUIを使用するときにはこのプログラムを停止してください。
 ## 利用例
 ZabbixのUserParametersとかを利用して、グラフ作ったら面白いかも
